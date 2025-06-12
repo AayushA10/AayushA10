@@ -2,7 +2,7 @@
 
 I’m a graduate student pursuing Computer Science at NYU Tandon, passionate about building intelligent systems at the intersection of **AI, Machine Learning, and Full-Stack Engineering**.
 
-My work spans across **deep learning**, **NLP**, and **computer vision**, and I’ve built and deployed projects ranging from a **distracted driver detection model** to an **AI-powered interview assistant** and a **resume analyzer using OpenAI APIs**. I’ve interned at organizations like **DRDO**, **Beahead Pvt Ltd**, **Clovity**, and currently contribute to **Zof.AI** on cutting-edge AI safety tasks.
+My work spans across **deep learning**, **NLP**, and **computer vision**, and I’ve built and deployed projects ranging from a **distracted driver detection model** to an **AI-powered interview assistant** and a **resume analyzer using OpenAI APIs**. I’ve interned at organizations like **DRDO**, **Beahead Pvt Ltd**, **Clovity**, and currently contribute to **ZofAI** on cutting-edge AI safety tasks.
 
 🚀 I love using cloud platforms (AWS, GCP), modern web stacks (Next.js, Flask, FastAPI), and tools like Hugging Face, PyTorch, and MongoDB to bring my ideas to life.
 
