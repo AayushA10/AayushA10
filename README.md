@@ -16,3 +16,6 @@ My work spans across **deep learning**, **NLP**, and **computer vision**, and I�
 
 ⚡ Fun fact: I don’t chase trends — I build what others debug, love prototyping fast, and have a habit of starting two projects at once (and finishing both 😄).
 
+Portfolio : https://aayusha10.github.io/aayush-portfolio/
+
+
